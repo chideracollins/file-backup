@@ -1,1 +1,1 @@
-##A program that automatically backs up a folder to a given directory within the same system.
+## A program that automatically backs up a folder to a given directory within the same system.
